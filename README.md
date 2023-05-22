@@ -1,6 +1,6 @@
-👋 Hi, I’m Pum Chanpom (@pumchanpom).
-👀 I’m interested in Data Analytics and Web Development.
-🌱 I’m currently learning data visualization.
+👋 Hi, I’m Pum Chanpom (@pumchanpom). <br>
+👀 I’m interested in Data Analytics and Web Development. <br>
+🌱 I’m currently learning data visualization. <br>
 📫 How to reach me: pum.chanpom@gmail.com
 
 <!---
